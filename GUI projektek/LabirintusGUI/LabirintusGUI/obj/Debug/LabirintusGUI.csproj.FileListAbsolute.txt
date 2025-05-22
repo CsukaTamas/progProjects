@@ -1,0 +1,10 @@
+C:\Users\CsukaTamas\Downloads\20241219_CsukaTamas\LabirintusGUI\LabirintusGUI\bin\Debug\LabirintusGUI.exe.config
+C:\Users\CsukaTamas\Downloads\20241219_CsukaTamas\LabirintusGUI\LabirintusGUI\bin\Debug\LabirintusGUI.exe
+C:\Users\CsukaTamas\Downloads\20241219_CsukaTamas\LabirintusGUI\LabirintusGUI\bin\Debug\LabirintusGUI.pdb
+C:\Users\CsukaTamas\Downloads\20241219_CsukaTamas\LabirintusGUI\LabirintusGUI\obj\Debug\LabirintusGUI.csproj.AssemblyReference.cache
+C:\Users\CsukaTamas\Downloads\20241219_CsukaTamas\LabirintusGUI\LabirintusGUI\obj\Debug\LabirintusGUI.Form1.resources
+C:\Users\CsukaTamas\Downloads\20241219_CsukaTamas\LabirintusGUI\LabirintusGUI\obj\Debug\LabirintusGUI.Properties.Resources.resources
+C:\Users\CsukaTamas\Downloads\20241219_CsukaTamas\LabirintusGUI\LabirintusGUI\obj\Debug\LabirintusGUI.csproj.GenerateResource.cache
+C:\Users\CsukaTamas\Downloads\20241219_CsukaTamas\LabirintusGUI\LabirintusGUI\obj\Debug\LabirintusGUI.csproj.CoreCompileInputs.cache
+C:\Users\CsukaTamas\Downloads\20241219_CsukaTamas\LabirintusGUI\LabirintusGUI\obj\Debug\LabirintusGUI.exe
+C:\Users\CsukaTamas\Downloads\20241219_CsukaTamas\LabirintusGUI\LabirintusGUI\obj\Debug\LabirintusGUI.pdb

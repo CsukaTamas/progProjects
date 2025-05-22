@@ -1,0 +1,10 @@
+C:\Users\CsukaTamas\Downloads\20250313_CsukaTamas\meretezes\meretezes\bin\Debug\meretezes.exe.config
+C:\Users\CsukaTamas\Downloads\20250313_CsukaTamas\meretezes\meretezes\bin\Debug\meretezes.exe
+C:\Users\CsukaTamas\Downloads\20250313_CsukaTamas\meretezes\meretezes\bin\Debug\meretezes.pdb
+C:\Users\CsukaTamas\Downloads\20250313_CsukaTamas\meretezes\meretezes\obj\Debug\meretezes.csproj.AssemblyReference.cache
+C:\Users\CsukaTamas\Downloads\20250313_CsukaTamas\meretezes\meretezes\obj\Debug\meretezes.Form1.resources
+C:\Users\CsukaTamas\Downloads\20250313_CsukaTamas\meretezes\meretezes\obj\Debug\meretezes.Properties.Resources.resources
+C:\Users\CsukaTamas\Downloads\20250313_CsukaTamas\meretezes\meretezes\obj\Debug\meretezes.csproj.GenerateResource.cache
+C:\Users\CsukaTamas\Downloads\20250313_CsukaTamas\meretezes\meretezes\obj\Debug\meretezes.csproj.CoreCompileInputs.cache
+C:\Users\CsukaTamas\Downloads\20250313_CsukaTamas\meretezes\meretezes\obj\Debug\meretezes.exe
+C:\Users\CsukaTamas\Downloads\20250313_CsukaTamas\meretezes\meretezes\obj\Debug\meretezes.pdb

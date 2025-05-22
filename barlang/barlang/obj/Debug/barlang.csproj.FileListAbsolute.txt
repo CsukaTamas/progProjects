@@ -1,0 +1,7 @@
+C:\Users\CsukaTamas\Downloads\20241114_CsukaTamas\barlang\barlang\bin\Debug\barlang.exe.config
+C:\Users\CsukaTamas\Downloads\20241114_CsukaTamas\barlang\barlang\bin\Debug\barlang.exe
+C:\Users\CsukaTamas\Downloads\20241114_CsukaTamas\barlang\barlang\bin\Debug\barlang.pdb
+C:\Users\CsukaTamas\Downloads\20241114_CsukaTamas\barlang\barlang\obj\Debug\barlang.csproj.AssemblyReference.cache
+C:\Users\CsukaTamas\Downloads\20241114_CsukaTamas\barlang\barlang\obj\Debug\barlang.csproj.CoreCompileInputs.cache
+C:\Users\CsukaTamas\Downloads\20241114_CsukaTamas\barlang\barlang\obj\Debug\barlang.exe
+C:\Users\CsukaTamas\Downloads\20241114_CsukaTamas\barlang\barlang\obj\Debug\barlang.pdb

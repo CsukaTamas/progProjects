@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\CsukaTamas\\Downloads\\20250313_CsukaTamas\\meretezes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D5885D95-CDFB-4547-9FA5-791BC351B71F}|meretezes\\meretezes.csproj|c:\\users\\csukatamas\\downloads\\20250313_csukatamas\\meretezes\\meretezes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5885D95-CDFB-4547-9FA5-791BC351B71F}|meretezes\\meretezes.csproj|solutionrelative:meretezes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5885D95-CDFB-4547-9FA5-791BC351B71F}|meretezes\\meretezes.csproj|C:\\Users\\CsukaTamas\\Downloads\\20250313_CsukaTamas\\meretezes\\meretezes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D5885D95-CDFB-4547-9FA5-791BC351B71F}|meretezes\\meretezes.csproj|solutionrelative:meretezes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5885D95-CDFB-4547-9FA5-791BC351B71F}|meretezes\\meretezes.csproj|C:\\Users\\CsukaTamas\\Downloads\\20250313_CsukaTamas\\meretezes\\meretezes\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5885D95-CDFB-4547-9FA5-791BC351B71F}|meretezes\\meretezes.csproj|solutionrelative:meretezes\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5885D95-CDFB-4547-9FA5-791BC351B71F}|meretezes\\meretezes.csproj|C:\\Users\\CsukaTamas\\Downloads\\20250313_CsukaTamas\\meretezes\\meretezes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5885D95-CDFB-4547-9FA5-791BC351B71F}|meretezes\\meretezes.csproj|solutionrelative:meretezes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\CsukaTamas\\Downloads\\20250313_CsukaTamas\\meretezes\\meretezes\\Form1.cs",
+              "RelativeDocumentMoniker": "meretezes\\Form1.cs",
+              "ToolTip": "C:\\Users\\CsukaTamas\\Downloads\\20250313_CsukaTamas\\meretezes\\meretezes\\Form1.cs",
+              "RelativeToolTip": "meretezes\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T08:21:52.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\CsukaTamas\\Downloads\\20250313_CsukaTamas\\meretezes\\meretezes\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "meretezes\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\CsukaTamas\\Downloads\\20250313_CsukaTamas\\meretezes\\meretezes\\Form1.Designer.cs",
+              "RelativeToolTip": "meretezes\\Form1.Designer.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAgwFcAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T08:17:38.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\CsukaTamas\\Downloads\\20250313_CsukaTamas\\meretezes\\meretezes\\Program.cs",
+              "RelativeDocumentMoniker": "meretezes\\Program.cs",
+              "ToolTip": "C:\\Users\\CsukaTamas\\Downloads\\20250313_CsukaTamas\\meretezes\\meretezes\\Program.cs",
+              "RelativeToolTip": "meretezes\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T08:18:13.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\CsukaTamas\\Downloads\\20250313_CsukaTamas\\meretezes\\meretezes\\Form1.cs",
+              "RelativeDocumentMoniker": "meretezes\\Form1.cs",
+              "ToolTip": "C:\\Users\\CsukaTamas\\Downloads\\20250313_CsukaTamas\\meretezes\\meretezes\\Form1.cs [Design]",
+              "RelativeToolTip": "meretezes\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T08:16:15.928Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

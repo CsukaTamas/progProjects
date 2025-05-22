@@ -1,0 +1,20 @@
+C:\Users\CsukaTamas\Downloads\20241017_CsukaTamas\lnko_lkkt\lnko_lkkt\bin\Debug\lnko_lkkt.exe.config
+C:\Users\CsukaTamas\Downloads\20241017_CsukaTamas\lnko_lkkt\lnko_lkkt\bin\Debug\lnko_lkkt.exe
+C:\Users\CsukaTamas\Downloads\20241017_CsukaTamas\lnko_lkkt\lnko_lkkt\bin\Debug\lnko_lkkt.pdb
+C:\Users\CsukaTamas\Downloads\20241017_CsukaTamas\lnko_lkkt\lnko_lkkt\obj\Debug\lnko_lkkt.csproj.AssemblyReference.cache
+C:\Users\CsukaTamas\Downloads\20241017_CsukaTamas\lnko_lkkt\lnko_lkkt\obj\Debug\lnko_lkkt.Form1.resources
+C:\Users\CsukaTamas\Downloads\20241017_CsukaTamas\lnko_lkkt\lnko_lkkt\obj\Debug\lnko_lkkt.Properties.Resources.resources
+C:\Users\CsukaTamas\Downloads\20241017_CsukaTamas\lnko_lkkt\lnko_lkkt\obj\Debug\lnko_lkkt.csproj.GenerateResource.cache
+C:\Users\CsukaTamas\Downloads\20241017_CsukaTamas\lnko_lkkt\lnko_lkkt\obj\Debug\lnko_lkkt.csproj.CoreCompileInputs.cache
+C:\Users\CsukaTamas\Downloads\20241017_CsukaTamas\lnko_lkkt\lnko_lkkt\obj\Debug\lnko_lkkt.exe
+C:\Users\CsukaTamas\Downloads\20241017_CsukaTamas\lnko_lkkt\lnko_lkkt\obj\Debug\lnko_lkkt.pdb
+C:\Users\CsukaTamas\Documents\GitHub\progProjects\GUI projektek\lnko_lkkt\lnko_lkkt\bin\Debug\lnko_lkkt.exe.config
+C:\Users\CsukaTamas\Documents\GitHub\progProjects\GUI projektek\lnko_lkkt\lnko_lkkt\bin\Debug\lnko_lkkt.exe
+C:\Users\CsukaTamas\Documents\GitHub\progProjects\GUI projektek\lnko_lkkt\lnko_lkkt\bin\Debug\lnko_lkkt.pdb
+C:\Users\CsukaTamas\Documents\GitHub\progProjects\GUI projektek\lnko_lkkt\lnko_lkkt\obj\Debug\lnko_lkkt.csproj.AssemblyReference.cache
+C:\Users\CsukaTamas\Documents\GitHub\progProjects\GUI projektek\lnko_lkkt\lnko_lkkt\obj\Debug\lnko_lkkt.Form1.resources
+C:\Users\CsukaTamas\Documents\GitHub\progProjects\GUI projektek\lnko_lkkt\lnko_lkkt\obj\Debug\lnko_lkkt.Properties.Resources.resources
+C:\Users\CsukaTamas\Documents\GitHub\progProjects\GUI projektek\lnko_lkkt\lnko_lkkt\obj\Debug\lnko_lkkt.csproj.GenerateResource.cache
+C:\Users\CsukaTamas\Documents\GitHub\progProjects\GUI projektek\lnko_lkkt\lnko_lkkt\obj\Debug\lnko_lkkt.csproj.CoreCompileInputs.cache
+C:\Users\CsukaTamas\Documents\GitHub\progProjects\GUI projektek\lnko_lkkt\lnko_lkkt\obj\Debug\lnko_lkkt.exe
+C:\Users\CsukaTamas\Documents\GitHub\progProjects\GUI projektek\lnko_lkkt\lnko_lkkt\obj\Debug\lnko_lkkt.pdb
