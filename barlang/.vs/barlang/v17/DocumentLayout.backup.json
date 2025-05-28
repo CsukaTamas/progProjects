@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\CsukaTamas\\Downloads\\20241114_CsukaTamas\\barlang\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32900BF4-AF20-4431-BB22-57A0A93341C2}|barlang\\barlang.csproj|c:\\users\\csukatamas\\downloads\\20241114_csukatamas\\barlang\\barlang\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32900BF4-AF20-4431-BB22-57A0A93341C2}|barlang\\barlang.csproj|solutionrelative:barlang\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\CsukaTamas\\Downloads\\20241114_CsukaTamas\\barlang\\barlang\\Program.cs",
+              "RelativeDocumentMoniker": "barlang\\Program.cs",
+              "ToolTip": "C:\\Users\\CsukaTamas\\Downloads\\20241114_CsukaTamas\\barlang\\barlang\\Program.cs",
+              "RelativeToolTip": "barlang\\Program.cs",
+              "ViewState": "AQIAAGgAAAAAAAAAAAAMwH0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T08:14:32.377Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

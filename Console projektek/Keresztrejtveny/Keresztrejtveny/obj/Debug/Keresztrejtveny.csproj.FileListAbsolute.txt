@@ -1,0 +1,15 @@
+C:\Users\CsukaTamas\Downloads\20250327_CsukaTamas\Keresztrejtveny\Keresztrejtveny\bin\Debug\Keresztrejtveny.exe.config
+C:\Users\CsukaTamas\Downloads\20250327_CsukaTamas\Keresztrejtveny\Keresztrejtveny\bin\Debug\Keresztrejtveny.exe
+C:\Users\CsukaTamas\Downloads\20250327_CsukaTamas\Keresztrejtveny\Keresztrejtveny\bin\Debug\Keresztrejtveny.pdb
+C:\Users\CsukaTamas\Downloads\20250327_CsukaTamas\Keresztrejtveny\Keresztrejtveny\obj\Debug\Keresztrejtveny.csproj.AssemblyReference.cache
+C:\Users\CsukaTamas\Downloads\20250327_CsukaTamas\Keresztrejtveny\Keresztrejtveny\obj\Debug\Keresztrejtveny.csproj.CoreCompileInputs.cache
+C:\Users\CsukaTamas\Downloads\20250327_CsukaTamas\Keresztrejtveny\Keresztrejtveny\obj\Debug\Keresztrejtveny.exe
+C:\Users\CsukaTamas\Downloads\20250327_CsukaTamas\Keresztrejtveny\Keresztrejtveny\obj\Debug\Keresztrejtveny.pdb
+C:\Users\cstam\Downloads\asztali alk\20250327_CsukaTamas\Keresztrejtveny\Keresztrejtveny\bin\Debug\Keresztrejtveny.exe.config
+C:\Users\cstam\Downloads\asztali alk\20250327_CsukaTamas\Keresztrejtveny\Keresztrejtveny\bin\Debug\Keresztrejtveny.exe
+C:\Users\cstam\Downloads\asztali alk\20250327_CsukaTamas\Keresztrejtveny\Keresztrejtveny\bin\Debug\Keresztrejtveny.pdb
+C:\Users\cstam\Downloads\asztali alk\20250327_CsukaTamas\Keresztrejtveny\Keresztrejtveny\obj\Debug\Keresztrejtveny.csproj.AssemblyReference.cache
+C:\Users\cstam\Downloads\asztali alk\20250327_CsukaTamas\Keresztrejtveny\Keresztrejtveny\obj\Debug\Keresztrejtveny.exe.config
+C:\Users\cstam\Downloads\asztali alk\20250327_CsukaTamas\Keresztrejtveny\Keresztrejtveny\obj\Debug\Keresztrejtveny.csproj.CoreCompileInputs.cache
+C:\Users\cstam\Downloads\asztali alk\20250327_CsukaTamas\Keresztrejtveny\Keresztrejtveny\obj\Debug\Keresztrejtveny.exe
+C:\Users\cstam\Downloads\asztali alk\20250327_CsukaTamas\Keresztrejtveny\Keresztrejtveny\obj\Debug\Keresztrejtveny.pdb

@@ -1,0 +1,10 @@
+C:\Users\CsukaTamas\Downloads\20241017_CsukaTamas\ugroAblak\ugroAblak\bin\Debug\ugroAblak.exe.config
+C:\Users\CsukaTamas\Downloads\20241017_CsukaTamas\ugroAblak\ugroAblak\bin\Debug\ugroAblak.exe
+C:\Users\CsukaTamas\Downloads\20241017_CsukaTamas\ugroAblak\ugroAblak\bin\Debug\ugroAblak.pdb
+C:\Users\CsukaTamas\Downloads\20241017_CsukaTamas\ugroAblak\ugroAblak\obj\Debug\ugroAblak.csproj.AssemblyReference.cache
+C:\Users\CsukaTamas\Downloads\20241017_CsukaTamas\ugroAblak\ugroAblak\obj\Debug\ugroAblak.Form1.resources
+C:\Users\CsukaTamas\Downloads\20241017_CsukaTamas\ugroAblak\ugroAblak\obj\Debug\ugroAblak.Properties.Resources.resources
+C:\Users\CsukaTamas\Downloads\20241017_CsukaTamas\ugroAblak\ugroAblak\obj\Debug\ugroAblak.csproj.GenerateResource.cache
+C:\Users\CsukaTamas\Downloads\20241017_CsukaTamas\ugroAblak\ugroAblak\obj\Debug\ugroAblak.csproj.CoreCompileInputs.cache
+C:\Users\CsukaTamas\Downloads\20241017_CsukaTamas\ugroAblak\ugroAblak\obj\Debug\ugroAblak.exe
+C:\Users\CsukaTamas\Downloads\20241017_CsukaTamas\ugroAblak\ugroAblak\obj\Debug\ugroAblak.pdb

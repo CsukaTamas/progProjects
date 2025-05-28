@@ -1,0 +1,63 @@
+C:\Users\CsukaTamas\Downloads\20250403_CsukaTamas\RealEstateGUI\RealEstateGUI\bin\Debug\RealEstateGUI.exe.config
+C:\Users\CsukaTamas\Downloads\20250403_CsukaTamas\RealEstateGUI\RealEstateGUI\bin\Debug\RealEstateGUI.exe
+C:\Users\CsukaTamas\Downloads\20250403_CsukaTamas\RealEstateGUI\RealEstateGUI\bin\Debug\RealEstateGUI.pdb
+C:\Users\CsukaTamas\Downloads\20250403_CsukaTamas\RealEstateGUI\RealEstateGUI\obj\Debug\RealEstateGUI.csproj.AssemblyReference.cache
+C:\Users\CsukaTamas\Downloads\20250403_CsukaTamas\RealEstateGUI\RealEstateGUI\obj\Debug\RealEstateGUI.Properties.Resources.resources
+C:\Users\CsukaTamas\Downloads\20250403_CsukaTamas\RealEstateGUI\RealEstateGUI\obj\Debug\RealEstateGUI.csproj.GenerateResource.cache
+C:\Users\CsukaTamas\Downloads\20250403_CsukaTamas\RealEstateGUI\RealEstateGUI\obj\Debug\RealEstateGUI.csproj.CoreCompileInputs.cache
+C:\Users\CsukaTamas\Downloads\20250403_CsukaTamas\RealEstateGUI\RealEstateGUI\obj\Debug\RealEstateGUI.exe
+C:\Users\CsukaTamas\Downloads\20250403_CsukaTamas\RealEstateGUI\RealEstateGUI\obj\Debug\RealEstateGUI.pdb
+C:\Users\CsukaTamas\Downloads\20250403_CsukaTamas\RealEstateGUI\RealEstateGUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\CsukaTamas\Downloads\20250403_CsukaTamas\RealEstateGUI\RealEstateGUI\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\CsukaTamas\Downloads\20250403_CsukaTamas\RealEstateGUI\RealEstateGUI\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\CsukaTamas\Downloads\20250403_CsukaTamas\RealEstateGUI\RealEstateGUI\bin\Debug\MySqlConnector.dll
+C:\Users\CsukaTamas\Downloads\20250403_CsukaTamas\RealEstateGUI\RealEstateGUI\bin\Debug\System.Buffers.dll
+C:\Users\CsukaTamas\Downloads\20250403_CsukaTamas\RealEstateGUI\RealEstateGUI\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\CsukaTamas\Downloads\20250403_CsukaTamas\RealEstateGUI\RealEstateGUI\bin\Debug\System.Memory.dll
+C:\Users\CsukaTamas\Downloads\20250403_CsukaTamas\RealEstateGUI\RealEstateGUI\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\CsukaTamas\Downloads\20250403_CsukaTamas\RealEstateGUI\RealEstateGUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\CsukaTamas\Downloads\20250403_CsukaTamas\RealEstateGUI\RealEstateGUI\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\CsukaTamas\Downloads\20250403_CsukaTamas\RealEstateGUI\RealEstateGUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\CsukaTamas\Downloads\20250403_CsukaTamas\RealEstateGUI\RealEstateGUI\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\CsukaTamas\Downloads\20250403_CsukaTamas\RealEstateGUI\RealEstateGUI\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\CsukaTamas\Downloads\20250403_CsukaTamas\RealEstateGUI\RealEstateGUI\bin\Debug\MySqlConnector.xml
+C:\Users\CsukaTamas\Downloads\20250403_CsukaTamas\RealEstateGUI\RealEstateGUI\bin\Debug\System.Buffers.xml
+C:\Users\CsukaTamas\Downloads\20250403_CsukaTamas\RealEstateGUI\RealEstateGUI\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\CsukaTamas\Downloads\20250403_CsukaTamas\RealEstateGUI\RealEstateGUI\bin\Debug\System.Memory.xml
+C:\Users\CsukaTamas\Downloads\20250403_CsukaTamas\RealEstateGUI\RealEstateGUI\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\CsukaTamas\Downloads\20250403_CsukaTamas\RealEstateGUI\RealEstateGUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\CsukaTamas\Downloads\20250403_CsukaTamas\RealEstateGUI\RealEstateGUI\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\CsukaTamas\Downloads\20250403_CsukaTamas\RealEstateGUI\RealEstateGUI\obj\Debug\RealEstateGUI.Form1.resources
+C:\Users\CsukaTamas\Downloads\20250403_CsukaTamas\RealEstateGUI\RealEstateGUI\obj\Debug\RealEsta.4E934238.Up2Date
+C:\Users\cstam\Downloads\asztali alk\20250403_CsukaTamas\RealEstateGUI\RealEstateGUI\bin\Debug\RealEstateGUI.exe.config
+C:\Users\cstam\Downloads\asztali alk\20250403_CsukaTamas\RealEstateGUI\RealEstateGUI\bin\Debug\RealEstateGUI.exe
+C:\Users\cstam\Downloads\asztali alk\20250403_CsukaTamas\RealEstateGUI\RealEstateGUI\bin\Debug\RealEstateGUI.pdb
+C:\Users\cstam\Downloads\asztali alk\20250403_CsukaTamas\RealEstateGUI\RealEstateGUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\cstam\Downloads\asztali alk\20250403_CsukaTamas\RealEstateGUI\RealEstateGUI\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\cstam\Downloads\asztali alk\20250403_CsukaTamas\RealEstateGUI\RealEstateGUI\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\cstam\Downloads\asztali alk\20250403_CsukaTamas\RealEstateGUI\RealEstateGUI\bin\Debug\MySqlConnector.dll
+C:\Users\cstam\Downloads\asztali alk\20250403_CsukaTamas\RealEstateGUI\RealEstateGUI\bin\Debug\System.Buffers.dll
+C:\Users\cstam\Downloads\asztali alk\20250403_CsukaTamas\RealEstateGUI\RealEstateGUI\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\cstam\Downloads\asztali alk\20250403_CsukaTamas\RealEstateGUI\RealEstateGUI\bin\Debug\System.Memory.dll
+C:\Users\cstam\Downloads\asztali alk\20250403_CsukaTamas\RealEstateGUI\RealEstateGUI\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\cstam\Downloads\asztali alk\20250403_CsukaTamas\RealEstateGUI\RealEstateGUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\cstam\Downloads\asztali alk\20250403_CsukaTamas\RealEstateGUI\RealEstateGUI\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\cstam\Downloads\asztali alk\20250403_CsukaTamas\RealEstateGUI\RealEstateGUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\cstam\Downloads\asztali alk\20250403_CsukaTamas\RealEstateGUI\RealEstateGUI\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\cstam\Downloads\asztali alk\20250403_CsukaTamas\RealEstateGUI\RealEstateGUI\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\cstam\Downloads\asztali alk\20250403_CsukaTamas\RealEstateGUI\RealEstateGUI\bin\Debug\MySqlConnector.xml
+C:\Users\cstam\Downloads\asztali alk\20250403_CsukaTamas\RealEstateGUI\RealEstateGUI\bin\Debug\System.Buffers.xml
+C:\Users\cstam\Downloads\asztali alk\20250403_CsukaTamas\RealEstateGUI\RealEstateGUI\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\cstam\Downloads\asztali alk\20250403_CsukaTamas\RealEstateGUI\RealEstateGUI\bin\Debug\System.Memory.xml
+C:\Users\cstam\Downloads\asztali alk\20250403_CsukaTamas\RealEstateGUI\RealEstateGUI\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\cstam\Downloads\asztali alk\20250403_CsukaTamas\RealEstateGUI\RealEstateGUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\cstam\Downloads\asztali alk\20250403_CsukaTamas\RealEstateGUI\RealEstateGUI\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\cstam\Downloads\asztali alk\20250403_CsukaTamas\RealEstateGUI\RealEstateGUI\obj\Debug\RealEstateGUI.csproj.AssemblyReference.cache
+C:\Users\cstam\Downloads\asztali alk\20250403_CsukaTamas\RealEstateGUI\RealEstateGUI\obj\Debug\RealEstateGUI.exe.config
+C:\Users\cstam\Downloads\asztali alk\20250403_CsukaTamas\RealEstateGUI\RealEstateGUI\obj\Debug\RealEstateGUI.Form1.resources
+C:\Users\cstam\Downloads\asztali alk\20250403_CsukaTamas\RealEstateGUI\RealEstateGUI\obj\Debug\RealEstateGUI.Properties.Resources.resources
+C:\Users\cstam\Downloads\asztali alk\20250403_CsukaTamas\RealEstateGUI\RealEstateGUI\obj\Debug\RealEstateGUI.csproj.GenerateResource.cache
+C:\Users\cstam\Downloads\asztali alk\20250403_CsukaTamas\RealEstateGUI\RealEstateGUI\obj\Debug\RealEstateGUI.csproj.CoreCompileInputs.cache
+C:\Users\cstam\Downloads\asztali alk\20250403_CsukaTamas\RealEstateGUI\RealEstateGUI\obj\Debug\RealEsta.4E934238.Up2Date
+C:\Users\cstam\Downloads\asztali alk\20250403_CsukaTamas\RealEstateGUI\RealEstateGUI\obj\Debug\RealEstateGUI.exe
+C:\Users\cstam\Downloads\asztali alk\20250403_CsukaTamas\RealEstateGUI\RealEstateGUI\obj\Debug\RealEstateGUI.pdb

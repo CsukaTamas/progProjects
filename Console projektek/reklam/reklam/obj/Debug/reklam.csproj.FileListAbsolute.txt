@@ -1,0 +1,7 @@
+C:\Users\cstam\source\repos\reklam\reklam\bin\Debug\reklam.exe.config
+C:\Users\cstam\source\repos\reklam\reklam\bin\Debug\reklam.exe
+C:\Users\cstam\source\repos\reklam\reklam\bin\Debug\reklam.pdb
+C:\Users\cstam\source\repos\reklam\reklam\obj\Debug\reklam.csproj.AssemblyReference.cache
+C:\Users\cstam\source\repos\reklam\reklam\obj\Debug\reklam.csproj.CoreCompileInputs.cache
+C:\Users\cstam\source\repos\reklam\reklam\obj\Debug\reklam.exe
+C:\Users\cstam\source\repos\reklam\reklam\obj\Debug\reklam.pdb
