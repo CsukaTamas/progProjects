@@ -30,3 +30,8 @@ if (!int.TryParse(number1.Text, out num1) || !int.TryParse(number2.Text, out num
  \s – space
  \t – tab
  ```
+
+ ```
+Form2 form = new 
+Form2(); form.Show();
+ ```
